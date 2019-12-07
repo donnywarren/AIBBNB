@@ -35,4 +35,9 @@ font-weight: bold;
  .heart {
   font-size: 50px;
   color: rgba(0,0,0,0.3);
-} 
+}
+
+.star  {
+  font-size: 50px;
+  color: purple;
+}
