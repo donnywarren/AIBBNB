@@ -1,0 +1,38 @@
+p {
+  margin: 0px;
+}
+
+.card {
+  width:400px;
+}
+.card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-family: sans-serif;
+  margin-bottom: 10px;
+  font-size: 15px;
+
+}
+
+.card .text-with-border {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 2px;
+}
+
+.card .small-text {
+font-size: 12px;
+}
+
+.card .bold-text {
+font-weight: bold;
+}
+
+ .heart {
+  font-size: 50px;
+  color: rgba(0,0,0,0.3);
+} 
